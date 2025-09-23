@@ -17,8 +17,6 @@ From **February 22–23, 2025**, Ctrl+DSC participated in a 24-hour hackathon (B
 
 ---
 
----
-
 ## 💡 Problem Statement
 
 Nueva Ecija plays a crucial role in national rice production, yet frequent severe flooding disrupts agricultural activities and threatens farmers’ livelihoods (Paz-Alberto et al., 2018). Urban flood hazards in areas such as Cabanatuan City, Bongabon, and Gabaldon are classified as high, occurring at least once per decade. The Philippines increasingly depends on rice imports (3.8 MMT in 2023; projected 4.9 MMT in 2025) due to declining local yields (Congressional Policy and Budget Research Department, 2024). Addressing flooding and soil degradation is critical for stable production.
