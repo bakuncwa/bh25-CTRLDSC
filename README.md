@@ -33,10 +33,12 @@ From **February 22–23, 2025**, Ctrl+DSC participated in a 24-hour hackathon (B
 
 ## 🔧 Tech Stack
 
-* **Backend:** Python, Django, SQLite3
-* **Frontend:** HTML, CSS, JavaScript
-* **Machine Learning:** Scikit-learn, CatBoost
-* **Database:** SQLite3
+| Category           | Technology / Library          |
+|-------------------|-------------------------------|
+| **Backend**        | Python, Django, SQLite3, Apache Spark |
+| **Frontend**       | HTML, CSS, JavaScript        |
+| **Machine Learning** | Scikit-learn, pandas, CatBoost |
+| **Database**       | SQLite3                      |
 
 ---
 
@@ -48,3 +50,7 @@ From **February 22–23, 2025**, Ctrl+DSC participated in a 24-hour hackathon (B
 | **Jan Andrei Montenegro**    | Front-End & Back-End Developer               |
 | **Andrea Ochotorena**        | UI Designer, Researcher                      |
 | **Nicole Vera Cruz**         | Illustrator, Researcher, Presenter           |
+
+- Constructed predictive multiple logistic regression recommendation CatboostClassifier GBDT model via scikit-lean and model loader for hydrogen molar ionic concentration’ acid dissociation affecting soil acidity or alkalinity per rainfall increase (mm); achieved 90% accuracy, 100% precision, 94% F1 score, and 100% recall.
+- Loaded the soil classification model into Django web-based application with JSON API architecture to process rainfall impact on soil concentration values fed from sqlite3 database.
+- Developed dynamic front-end features using HTML, CSS, JavaScript functions with optimized asset loading times.
