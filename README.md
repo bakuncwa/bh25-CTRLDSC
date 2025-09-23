@@ -5,13 +5,13 @@ Developed by **Ctrl+DSC** (Association of Information Management, Benilde).
 
 ---
 
-## 📍 Project Overview
+## 📍 Project Description
 
 **LigtasAni** is a Python Django-based web application that predicts soil acidity using farm geolocation data and theoretical soil pH sensor input. Targeted at flood-prone areas like Nueva Ecija, it aims to support Filipino farmers with real-time, predictive recommendations on whether their soil is too acidic or saline—enabling them to proactively take measures to prevent crop yield loss during or before floods.
 
 ---
 
-## 💡 Motivation
+## 💡 Objectives
 
 From **February 22–23, 2025**, Ctrl+DSC participated in a 24-hour hackathon (Blue Hacks 2025) hosted by CompSAt Gear at the Ateneo de Manila University. Focused on addressing flood-induced soil degradation in Nueva Ecija, we prototyped **LigtasAni** to help rice farmers better manage soil health through actionable ML-driven insights.
 
