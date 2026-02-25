@@ -1,23 +1,23 @@
-# 🌾 LigtasAni: Soil pH Prediction Web App for Flood-Resilient Farming
+# LigtasAni: Soil pH Prediction Web App for Flood-Resilient Farming
 
-**🏆 Placed Top 5 out of 90+ participants** at the Computer Society of Ateneo's **Blue Hacks 2025**, themed *Disaster Risk Management and Reduction in the Philippines*.
+**Placed Top 5 out of 90+ participants** at the Computer Society of Ateneo's **Blue Hacks 2025**, themed *Disaster Risk Management and Reduction in the Philippines*.
 Developed by **Ctrl+DSC** (Association of Information Management, Benilde).
 
 ---
 
-## 📍 Project Description
+## Project Description
 
 **LigtasAni** is a Python Django-based web application that predicts soil acidity using farm geolocation data and theoretical soil pH sensor input. Targeted at flood-prone areas like Nueva Ecija, it aims to support Filipino farmers with real-time, predictive recommendations on whether their soil is too acidic or saline—enabling them to proactively take measures to prevent crop yield loss during or before floods.
 
 ---
 
-## 💡 Objectives
+## Objectives
 
 From **February 22–23, 2025**, Ctrl+DSC participated in a 24-hour hackathon (Blue Hacks 2025) hosted by CompSAt Gear at the Ateneo de Manila University. Focused on addressing flood-induced soil degradation in Nueva Ecija, we prototyped **LigtasAni** to help rice farmers better manage soil health through actionable ML-driven insights.
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
 Nueva Ecija plays a crucial role in national rice production, yet frequent severe flooding disrupts agricultural activities and threatens farmers’ livelihoods (Paz-Alberto et al., 2018). Urban flood hazards in areas such as Cabanatuan City, Bongabon, and Gabaldon are classified as high, occurring at least once per decade. The Philippines increasingly depends on rice imports (3.8 MMT in 2023; projected 4.9 MMT in 2025) due to declining local yields (Congressional Policy and Budget Research Department, 2024). Addressing flooding and soil degradation is critical for stable production.
 
@@ -26,7 +26,7 @@ Large and small-scale rice farmers who directly experience crop loss due to floo
 
 ---
 
-## 💡 Solution Pathways
+## Solution Pathways
 
 LigtasAni transforms crop management by:
 
@@ -45,7 +45,7 @@ LigtasAni transforms crop management by:
 
 ---
 
-## 📊 Business & Marketing Strategy
+## Business & Marketing Strategy
 
 **Business Models:**
 
@@ -68,7 +68,7 @@ LigtasAni transforms crop management by:
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 * Achieved **90% accuracy** and **100% precision** in classifying soil acidity.
 * Data modeling involved theoretical values gathered for soil pH sensors.
@@ -80,18 +80,9 @@ LigtasAni transforms crop management by:
   * **Logistic Regression**
   * **CatBoostClassifier** (Gradient Boosted Decision Trees)
 
----
-
-## 🏆 Key Takeaways
-
-- Flood-prone agricultural regions require predictive and preventive solutions rather than reactive disaster alerts.
-- ML-powered soil health recommendations improve resilience and productivity.
-- Strategic partnerships with LGUs and government agencies enable wide adoption and sustainability.
-- Scalable platform design allows expansion to other crops and regions prone to climate risks.
-
 --
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Category           | Technology / Library          |
 |-------------------|-------------------------------|
@@ -102,7 +93,17 @@ LigtasAni transforms crop management by:
 
 ---
 
-## 👩‍💻 Team Ctrl+DSC – Roles and Responsibilities
+
+## Key Takeaways
+
+- Flood-prone agricultural regions require predictive and preventive solutions rather than reactive disaster alerts.
+- ML-powered soil health recommendations improve resilience and productivity.
+- Strategic partnerships with LGUs and government agencies enable wide adoption and sustainability.
+- Scalable platform design allows expansion to other crops and regions prone to climate risks.
+
+---
+
+## Team Ctrl+DSC – Roles and Responsibilities
 
 | Name                         | Role                                         |
 | ---------------------------- | -------------------------------------------- |
@@ -117,7 +118,7 @@ LigtasAni transforms crop management by:
 
 ---
 
-## 📌 References
+## References
 
 1. Paz-Alberto, A. et al., 2018. Flood hazard mapping and impacts.  
 2. Congressional Policy and Budget Research Department, 2024. Rice imports and local yields.  
